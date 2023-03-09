@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 this is after staging
+=======
+this is my first line
+>>>>>>> Stashed changes
